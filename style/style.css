@@ -54,7 +54,8 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 1.2rem;
+  font-weight: lighter;
 }
 
 .four .text-box {
